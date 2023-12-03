@@ -1,7 +1,7 @@
-# Gen-AI-intel-Open-AI
+**# Gen-AI-intel-Open-AI
 oneAPI-GenAI-Hackathon-2023 - Hack2Skill
 Welcome to the official repository for the oneAPI-GenAI-Hackathon-2023 organized by Hack2Skill!
-
+******
 Getting Started
 To get started with the oneAPI-GenAI-Hackathon-2023 repository, follow these steps:
 
@@ -10,7 +10,7 @@ Fork this repository
 Create a folder with your Team Name
 Upload all the code and necessary files in the created folder
 Upload a README.md file in your folder with the below mentioned informations.
-Generate a Pull Request with your Team Name. (Example: submission-XYZ_team)
+Generate a Pull Request with your Team Name. CLCS
 README.md must consist of the following information:
 Team Name -CLCS
 Problem Statement -GenAI -Powered Customer Support Process Optimization
